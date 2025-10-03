@@ -1,0 +1,8 @@
+faiss-cpu
+sentence-transformers
+torch
+numpy
+pandas
+python-dotenv
+groq
+gradio
